@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="71" height="58" viewBox="0 0 71 58">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_1" data-name="Rectangle 1" width="71" height="58" transform="translate(207.39 -452.12)" fill="#fff" opacity="0.5"/>
+    </clipPath>
+  </defs>
+  <g id="Mask_Group_1" data-name="Mask Group 1" transform="translate(-207.39 452.12)" clip-path="url(#clip-path)">
+    <g id="Group_10927" data-name="Group 10927" transform="translate(209.044 -450.834)">
+      <g id="Group_10879" data-name="Group 10879" transform="translate(0 0)">
+        <g id="Group_10874" data-name="Group 10874" transform="translate(0 0.001)">
+          <path id="Path_25257" data-name="Path 25257" d="M-932.3,349.033a20.728,20.728,0,0,1-20.7-20.7,20.728,20.728,0,0,1,20.7-20.7v8.134a12.587,12.587,0,0,0-12.57,12.569A12.587,12.587,0,0,0-932.3,340.9Z" transform="translate(953 -307.625)" fill="#47a54b"/>
+        </g>
+        <g id="Group_10875" data-name="Group 10875" transform="translate(27.37 0)">
+          <path id="Path_25258" data-name="Path 25258" d="M-822.5,349.033h-6.3V340.9h6.307a12.587,12.587,0,0,0,12.571-12.57,12.587,12.587,0,0,0-12.571-12.57H-828.8v-8.134h6.307a20.728,20.728,0,0,1,20.7,20.7A20.728,20.728,0,0,1-822.5,349.033Z" transform="translate(828.8 -307.624)" fill="#47a54b"/>
+        </g>
+        <g id="Group_10876" data-name="Group 10876" transform="translate(27.37 20.704)">
+          <path id="Path_25259" data-name="Path 25259" d="M-822.5,435.6h-6.3v-8.134h6.307a25.91,25.91,0,0,0,25.88-25.881h8.134A34.052,34.052,0,0,1-822.5,435.6Z" transform="translate(828.8 -401.582)" fill="#3fa0db"/>
+        </g>
+        <g id="Group_10877" data-name="Group 10877" transform="translate(59.554 9.983)">
+          <rect id="Rectangle_2556" data-name="Rectangle 2556" width="8.133" height="8.133" fill="#3fa0db"/>
+        </g>
+        <g id="Group_10878" data-name="Group 10878" transform="translate(27.436 16.03)">
+          <rect id="Rectangle_2557" data-name="Rectangle 2557" width="11.403" height="8.133" fill="#3fa0db"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

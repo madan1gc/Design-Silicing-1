@@ -1,0 +1,17 @@
+
+
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&display=swap');
+body {
+
+    font-family: $font-family;
+    background-color: #F2F5F9;
+    
+}
+
+
+
+@media (min-width: 1400px){
+    .container-xxl, .container-xl, .container-lg, .container-md, .container-sm, .container {
+        max-width: 1660px;
+    }
+}

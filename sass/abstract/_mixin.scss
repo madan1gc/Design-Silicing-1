@@ -1,0 +1,27 @@
+@mixin heading-box {
+    background: transparent linear-gradient(102deg, #E8F5E9 0%, #F2F5F9 100%) 0% 0% no-repeat padding-box;
+    border-radius: 4px 0px 0px 4px ;
+    border-left: solid 7px #439A46;
+   
+}
+
+@mixin heading-title {
+    text-align: left;
+    font: normal normal bold 20px/24px $font-family;
+    color: #262626;
+    text-transform: capitalize;
+    padding: 12px 0px 12px 20px;
+    
+}
+
+@mixin button {
+    background: #E8F5E9 0% 0% no-repeat padding-box;
+    border-radius: 8px;
+    text-align: left;
+    font: normal normal medium 18px/21px $font-family ;
+    color: #439A46;
+    text-transform: capitalize;
+    padding: 14px 28px 14px 28px;
+
+    
+}
